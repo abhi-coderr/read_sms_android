@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMSReader</string>
+    <string name="number">Number : </string>
+    <string name="message">Message : </string>
+</resources>
